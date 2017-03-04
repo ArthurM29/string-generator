@@ -1,5 +1,5 @@
-# this project asks user to enter a length, generates a random string with specified length
-# and copiesS it to clipboard
+# this project asks user to enter an integer length, generates a random string with specified length
+# and copies it to clipboard test
 
 from random import choice
 from string import ascii_lowercase
