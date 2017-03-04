@@ -1,3 +1,6 @@
+# this project asks user to enter a length, generates a random string with specified length
+# and copiesS it to clipboard
+
 from random import choice
 from string import ascii_lowercase
 import pyperclip
